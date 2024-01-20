@@ -1,0 +1,15 @@
+Ideas to scrape...
+    -tcg tourney schedules...mtg, fab, poke...
+    -possibly have a button event for each
+        -website; need to create a basic f.e.
+
+
+        -date of event
+        -event host store  
+            -distance 
+            -address with google maps link?
+        -event name 
+            -formats and tourney types
+
+
+

@@ -1,6 +1,5 @@
 import csv
 import requests
-from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 page = requests.get("https://www.geeksforgeeks.org/java-projects/") #replace this url with one that will be generalized. 

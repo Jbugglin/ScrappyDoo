@@ -2,7 +2,7 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 
-page = requests.get("https://www.geeksforgeeks.org/java-projects/") #replace this url with one that will be generalized. 
+page = requests.get("https://learntocodewith.me/posts/portfolio-tips/#what-to-include-in-a-portfolio") #replace this url with one that will be generalized. 
 
 soup = BeautifulSoup(page.content, 'html.parser') #standard soup declaration.
 projectName = [] #initialize the array to send the h3 elements.
